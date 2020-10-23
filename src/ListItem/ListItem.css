@@ -1,0 +1,38 @@
+.ListItem {
+    border: 1px solid;
+    display: flex;
+}
+
+.ListItem__icon {
+    flex: 1;
+    align-self: center;
+}
+
+.ListItem__icon svg {
+    margin-left: 10px;
+    margin-right: auto;
+}
+
+.ListItem__content {
+    flex: 4;
+    display: flex;
+}
+
+.ListItem__heading {
+    margin-top: 10px;
+    flex: 1;
+}
+
+.ListItem__size {
+    color: gray;
+}
+
+.ListItem__actions {
+    flex: 1;
+}
+
+.ListItem__status {
+    color: cadetblue;
+    margin-left: 10px;
+    margin-top: 10px;
+}

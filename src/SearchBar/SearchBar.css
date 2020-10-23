@@ -1,0 +1,15 @@
+.SearchBar {
+    display: flex;
+    background-color: lightgray;
+    border: 3px solid;
+    align-items: center;
+}
+
+.SearchBar__heading {
+    flex: 1;
+    text-align: center;
+}
+
+.SearchBar__controls {
+    flex: 1;
+}

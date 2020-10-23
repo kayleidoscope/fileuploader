@@ -1,0 +1,7 @@
+.ControlBar {
+    display: flex;
+}
+
+.ControlBar__btn {
+    margin: 10px;
+}
