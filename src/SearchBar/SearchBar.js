@@ -15,7 +15,7 @@ class SearchBar extends Component {
             searchTerm={this.props.searchTerm}
           />
           <FilterOptions
-            FilterOptions={this.props.FilterOptions}
+            FilterOption={this.props.filterOption}
           />
         </div>
       </div>
